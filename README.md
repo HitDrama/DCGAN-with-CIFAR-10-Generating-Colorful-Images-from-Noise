@@ -60,10 +60,9 @@ Below are generated image samples at different training stages (epochs 1, 5, 10,
 
 </div>
 
-> *(Ensure these image files are saved in the `assets/` folder of your repo for proper display)*
 
 ## 👤 Author
 
-**Đặng Tô Nhân**  
+**Đặng Tố Nhân**  
 Developer  
 🛠 _Built with PyTorch, coffee, and a passion for learning GANs._
